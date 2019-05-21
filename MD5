@@ -1,4 +1,4 @@
-93130caf616a9394d8410c9e6cf2b981 *DESCRIPTION
+34d9427b867a0c414fa4f803bdb95e0d *DESCRIPTION
 8c3777a87e2165b02dea76add972a4e2 *LICENSE
 e3ed802b2057206da4efd5b11a539434 *NAMESPACE
 9682d44ebe7215cd15983f28f3ec427e *R/data.R
@@ -8,15 +8,16 @@ aee2aae589f8568f864c989a457e6ac1 *R/helper_functions.R
 1fc3176bc8dac7dabb6d74be2adece82 *R/play.R
 8ae43217746ad134275ef39ba8bc479f *R/print.R
 1ebb5a7c890cd1b85f4a21b564207637 *R/record.R
-675c41652f49566ea71765c36d15b0bd *README.md
+b50fc14d0aeee6efcbb493c447ca8ea5 *build/vignette.rds
 e6471a9928d8c427cb85387adebd9df0 *data/iris_newdata.rda
-bc37910f34a5cb3ed02e2eb21d9cc16f *inst/extdata/config.yml
+bb064375de8f91888b1b3d05e72113da *inst/doc/recorder.R
+d8ca2fc59e9b0fa79c020459ce4e45c9 *inst/doc/recorder.Rmd
+e55ccb2689200c9be48252dfb53e62cb *inst/doc/recorder.html
+fdf99faa824b9a9f32ea10ec3c9f7379 *inst/extdata/config.yml
 9a012fea45c6195a0448a7ff5b096eb1 *man/compress_detailed_tests.Rd
 904b940f813339a8da655b24ea434820 *man/concatenate_test_failures.Rd
 5dfab30618f7d4769e075bb2bc7560e8 *man/create_test_results_df.Rd
 11fd884a43590cc0f4944d1f8d172d71 *man/create_tests_meta_data.Rd
-19420e933d21bdacc0903ac8911247bd *man/figures/logo.png
-547c805d7c563a628be1486e910f4a1d *man/figures/logo_recorder.png
 dc7614575b938fa8e1a5f1558453b02a *man/get_clean_rows.Rd
 217c32fb420dede98c2997d908ae6780 *man/get_failed_tests.Rd
 2499330c603517493021b680646a6b16 *man/get_failed_tests_string.Rd
@@ -47,3 +48,4 @@ abd40055b2109f59b022cce0085a377a *man/run_validation_tests.default.Rd
 130c86571a18de9e0bcdebdc4790290a *tests/testthat/test_ignore.R
 342c036bfc8f22803fea5bb12854e68d *tests/testthat/test_play.R
 3315428805760d45773c853bb9dfbb68 *tests/testthat/test_record.R
+d8ca2fc59e9b0fa79c020459ce4e45c9 *vignettes/recorder.Rmd
