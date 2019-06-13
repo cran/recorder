@@ -1,6 +1,6 @@
 Package: recorder
 Title: Toolkit to Validate New Data for a Predictive Model
-Version: 0.8.1
+Version: 0.8.2
 Authors@R: 
     person(given = "Lars",
            family = "Kjeldgaard",
@@ -22,8 +22,8 @@ Imports: data.table, crayon
 Suggests: testthat, knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-05-15 07:20:56 UTC; w19799
+Packaged: 2019-06-13 08:29:59 UTC; w19799
 Author: Lars Kjeldgaard [aut, cre]
 Maintainer: Lars Kjeldgaard <lars_kjeldgaard@hotmail.com>
 Repository: CRAN
-Date/Publication: 2019-05-21 07:00:03 UTC
+Date/Publication: 2019-06-13 08:40:03 UTC

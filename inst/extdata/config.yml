@@ -1,4 +1,4 @@
 default:
   r_version: 3.4.3
-  cran_snapshot: 2018-11
+  cran_snapshot: 2019-06
 
